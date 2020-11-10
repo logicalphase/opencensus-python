@@ -2,6 +2,19 @@
 
 ## Unreleased
 
+- PeriodicMetricTask flush on exit
+([#943](https://github.com/census-instrumentation/opencensus-python/pull/943))
+
+## 0.7.10
+Released 2020-06-29
+
+- Updated `azure` module
+([#903](https://github.com/census-instrumentation/opencensus-python/pull/903),
+ [#925](https://github.com/census-instrumentation/opencensus-python/pull/925))
+
+- Updated `stackdriver` module
+([#919](https://github.com/census-instrumentation/opencensus-python/pull/919))
+
 ## 0.7.9
 Released 2020-06-17
 
